@@ -1,5 +1,5 @@
-# life_expectancy_model
-This is a python group project whereby we shall be taking a children life expectancy dataset, cleaning the dataset, working on it then creating a model using various libraries
+# Coffee Prediction Analysis Model
+This is a python group project whereby we shall be taking a coffee export dataset, cleaning the dataset, working on it then creating a model using various libraries
 
 1. Problem Definition & Objective (10 marks)
 Guidelines:
